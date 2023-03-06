@@ -1,6 +1,6 @@
 # animated-navigation
 
-![](img/animated-navigation.gif)
+![](img/animated-nav.gif)
 
 # animated-nav-items
 
